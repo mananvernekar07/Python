@@ -1,0 +1,11 @@
+Exercise 3
+
+Mini-Project: Calculator
+
+Build a Calculator that can perform the following operations:
+
+~ a + b
+~ a - b
+~ a * b
+~ a % b
+~ a ** b

@@ -1,0 +1,10 @@
+Exercise 4
+
+1. Print all odd numbers from 1 to 20.
+
+2. Print the table of 57.
+
+3. Print all the multiples of 3 from 1 to 50 but skip 15.
+
+4. Take two integers a and b as input.
+Find and print the first number between 1 and 1000 that is divisible by both numbers.

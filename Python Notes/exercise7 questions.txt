@@ -1,0 +1,9 @@
+Exercise 7
+
+Mini-Project: Guessing Game
+
+~ generates a random number between 1 to 50 as a lucky number.
+~ if the number guessed is greater than lucky number than it gives hint as 'too high'.
+~ if the number guessed is smaller than lucky number than it gives hint as 'too low'.
+~ give similar hints if number is too close.
+~ if guessed than returns 'You Won!'.

@@ -1,0 +1,7 @@
+Exercise 2
+
+1. Take price of 3 products as input (eg - 99.5, 23.75, 16.15)
+~ print the total bill amount
+~ print the average price
+
+2. Take superhero name as input & check if it starts with 'S' / 's' or not.

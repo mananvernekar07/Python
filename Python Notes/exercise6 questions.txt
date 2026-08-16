@@ -1,0 +1,9 @@
+Exercise 6
+
+1. Write a Function to check if a number is odd or even.
+
+2. Write a Function to count the number of vowels in a string.
+
+3. Write a Function to print if a number is a prime or not.
+
+4. Write a Function to return the average marks if a list of marks is passed as a parameter.

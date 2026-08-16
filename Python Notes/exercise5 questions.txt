@@ -1,0 +1,14 @@
+Exercise 5
+
+1. Given a list of Employee IDs: [101, 102, 102, 103, 103, 101, 102]. Print all unique IDs in the list.
+
+2. Given Employee records in the form of a list of tuples where each tuple contains:
+(Employee ID, Employee Name, Salary)
+
+example - [
+(101, "Alice", 50000),
+(102, "Bob", 65000),
+(103, "Charlie", 45000)
+]
+
+Ask user to enter Employee ID and search it inside records.

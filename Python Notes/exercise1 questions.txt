@@ -1,0 +1,8 @@
+Exercise 1
+
+1. In your python program:
+~ add a person with first name as 'Tony' and last name as 'Stark'
+~ Tony's age is 53
+~ Tony's height is 1.85m
+
+2. Tony is secretly a superhero. Take his superhero name as input and print it.
